@@ -1,2 +1,2 @@
 # score-counter
-A score counter using JS, HTML and CSS. This project utilises Bootstrap for design purposes
+This score counter is built with JavaScript, HTML, and CSS, and uses Bootstrap for its design.
